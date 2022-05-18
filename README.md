@@ -1,5 +1,9 @@
 # Basic Data Exercises
 
+## Link
+
+- Live Site URL: [https://saadmalik200.github.io/Data-table-contact/](https://saadmalik200.github.io/Data-table-contact/)
+
 ## Exercise: Table 2
 
 **Instructions**:
