@@ -24,4 +24,4 @@
 3.  Style it with zebra stripes using pseudo child selectors.
 4.  Do NOT use deprecated HTML attributes. Style using CSS.
 
-!["mockup-image"](/image/Screenshot from 2022-05-18 19-57-00.png)
+!["mockup-image"](./image/Screenshot from 2022-05-18 19-57-00.png)
